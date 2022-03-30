@@ -1,23 +1,14 @@
 --[[
 
-  ▄████  ██░ ██  █    ██  ▄▄▄▄   
- ██▒ ▀█▒▓██░ ██▒ ██  ▓██▒▓█████▄ 
-▒██░▄▄▄░▒██▀▀██░▓██  ▒██░▒██▒ ▄██
-░▓█  ██▓░▓█ ░██ ▓▓█  ░██░▒██░█▀  
-░▒▓███▀▒░▓█▒░██▓▒▒█████▓ ░▓█  ▀█▓
- ░▒   ▒  ▒ ░░▒░▒░▒▓▒ ▒ ▒ ░▒▓███▀▒
-  ░   ░  ▒ ░▒░ ░░░▒░ ░ ░ ▒░▒   ░ 
-░ ░   ░  ░  ░░ ░ ░░░ ░ ░  ░    ░ 
-      ░  ░  ░  ░   ░      ░      
-                               ░
+pretend that my logo is here
+
 --]]
 
--- MADE BY Spoorloos#7871!!!
--- YOU ARE NOT ALLOWED TO USE THIS UI LIB!!!
--- YOU MUST ASK Spoorloos#7871 FOR PERMISSION!!! 
--- PERMISSION WAS GRANTED BY SPOORLOOS FOR GHUB TO USE THIS UI LIB!
+-- MADE BY Nukevscity
+--i made it
+--nukethebest
 
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/CatzCode/PikaHub/main/Libraries/UI/bruh.lua", true))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/hackingatpanzer/getskidded/main/uilink", true))()
 library.theme.fontsize = 15
 library.theme.font = Enum.Font.Code
 library.theme.background = "rbxassetid://6880496154"
